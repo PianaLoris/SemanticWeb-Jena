@@ -1,0 +1,10 @@
+<div class="vevent" id="hcalendar-Dinner-with-friends">
+<time datetime="2016-03-12T20:00" class="dtstart">March 12, 2016 </time>–<time datetime="2016-03-12T23:30" class="dtend">11pm</time> :  <span class="summary">Dinner with my friends</span> at <span class="location">My House</span>
+<span class="attendee">Curtis	Norman</a>
+<span class="attendee">April Austin</a>
+<span class="attendee">Erika Lewis</a>
+<span class="attendee">Kathryn Rose</a>
+<span class="attendee">Deborah Gomez</a>
+<span class="attendee">Marie Howard</a>
+
+</div>

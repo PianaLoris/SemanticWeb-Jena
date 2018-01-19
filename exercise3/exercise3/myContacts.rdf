@@ -1,0 +1,55 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:Person rdf:ID="1">
+<foaf:name>Curtis	Norman</foaf:name>
+<foaf:givenname>Curtis</foaf:givenname>
+<foaf:family_name>Norman</foaf:family_name>
+<foaf:loves>SohoPizza</foaf:loves>
+<foaf:mbox>curtis.norman@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3664512567"/></foaf:Person>
+<foaf:Person rdf:ID="2">
+<foaf:name>April Austin</foaf:name>
+<foaf:givenname>April</foaf:givenname>
+<foaf:family_name>Austin</foaf:family_name>
+<foaf:loves>FourCheesePizza</foaf:loves>
+<foaf:mbox>april.austin@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3451234567"/></foaf:Person>
+<foaf:Person rdf:ID="3">
+<foaf:name>Erika Lewis</foaf:name>
+<foaf:givenname>Erika</foaf:givenname>
+<foaf:family_name>Lewis</foaf:family_name>
+<foaf:loves>MargheritaPizza</foaf:loves>
+<foaf:mbox>erika.lewis@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3234512567"/></foaf:Person>
+<foaf:Person rdf:ID="4">
+<foaf:name>Kathryn Rose</foaf:name>
+<foaf:givenname>Kathryn</foaf:givenname>
+<foaf:family_name>Rose</foaf:family_name>
+<foaf:loves>AmericanHotPizza</foaf:loves>
+<foaf:mbox>kathryn.rose@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3661234567"/></foaf:Person>
+<foaf:Person rdf:ID="5">
+<foaf:name>Deborah Gomez</foaf:name>
+<foaf:givenname>Deborah</foaf:givenname>
+<foaf:family_name>Gomez</foaf:family_name>
+<foaf:loves>FourCheesePizza</foaf:loves>
+<foaf:mbox>deborah.gomez@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3547654321"/></foaf:Person>
+<foaf:Person rdf:ID="6">
+<foaf:name>Marie Howard</foaf:name>
+<foaf:givenname>Marie</foaf:givenname>
+<foaf:family_name>Howard</foaf:family_name>
+<foaf:loves>AmericanaPizza</foaf:loves>
+<foaf:mbox>marie.howard@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3486677111"/></foaf:Person>
+<foaf:Person rdf:ID="7">
+<foaf:name>Cynthia Grant</foaf:name>
+<foaf:givenname>Cynthia</foaf:givenname>
+<foaf:family_name>Grant</foaf:family_name>
+<foaf:loves>FourCheesePizza</foaf:loves>
+<foaf:mbox>cynthia.grant@email.com</foaf:mbox>
+<foaf:phone rdf:resource="tel:3431314150"/></foaf:Person>
+</rdf:RDF>
